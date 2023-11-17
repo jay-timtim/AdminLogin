@@ -1,0 +1,10 @@
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe.config
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\bin\Debug\AdminLogin.exe
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\bin\Debug\AdminLogin.pdb
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.AssemblyReference.cache
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Properties.Resources.resources
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.GenerateResource.cache
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.csproj.CoreCompileInputs.cache
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.exe
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.pdb
+C:\Users\aqhac\source\repos\AdminLogin\AdminLogin\obj\Debug\AdminLogin.Login.resources
